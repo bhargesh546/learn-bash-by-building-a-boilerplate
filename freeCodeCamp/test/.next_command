@@ -222,3 +222,5 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
 rm --help
+find -name fonts
+rm -r ./fonts
