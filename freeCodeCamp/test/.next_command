@@ -201,3 +201,4 @@ find -name background%
 find -name background.jpg
 find -name background*
 rm images/background.jpg
+rmdir images/
