@@ -203,3 +203,5 @@ find -name background*
 rm images/background.jpg
 rmdir images/
 ls --color=auto
+find -name assets
+mkdir client/assets/icons/
