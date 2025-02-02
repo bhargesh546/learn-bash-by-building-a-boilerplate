@@ -241,3 +241,4 @@ more README.md
 find -name project
 cd project
 cd ..
+ls --color=auto
