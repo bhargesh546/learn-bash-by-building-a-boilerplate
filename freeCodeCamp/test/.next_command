@@ -187,3 +187,5 @@ ls --color=auto
 cd ..
 ks
 ls --color=auto
+find -name images/
+find -name images
